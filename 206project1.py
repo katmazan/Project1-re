@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-##Katarina Mazanka, katmazan, https://github.com/katmazan/206-1.git 
+##Katarina Mazanka, katmazan, https://github.com/katmazan/206-1.git ##trying to add more things to git
 import os
 import filecmp
 =======
