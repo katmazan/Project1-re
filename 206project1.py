@@ -56,9 +56,9 @@ def getData(file):
 		
 
 	
-=======
+
 	pass
->>>>>>> 0fe91fb2932188c92939fafa45abb5f06d645ce5
+
 
 #Sort based on key/column
 def mySort(data,col):
