@@ -138,8 +138,6 @@ def findDay(a):
 	#Your code here:
 	pass
 
->>>>>>> 0fe91fb2932188c92939fafa45abb5f06d645ce5
-
 # Find the average age (rounded) of the Students
 def findAge(a):
 # Input: list of dictionaries
