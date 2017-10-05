@@ -145,7 +145,7 @@ def findAge(a):
 # most often seen in the DOB
 
 	#Your code here:
-<<<<<<< HEAD
+
 	item_total = 0
 	age_total = 0
 	import datetime
