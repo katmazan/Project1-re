@@ -70,12 +70,12 @@ def mySort(data,col):
 	
 	newlist = sorted(data, key=lambda k: k[col])
 	return str(newlist[0]['First']) + " "  + str(newlist[0]['Last'])
-=======
+
 
 	#Your code here:
 	pass
 
->>>>>>> 0fe91fb2932188c92939fafa45abb5f06d645ce5
+
 #Create a histogram
 def classSizes(data):
 # Input: list of dictionaries
@@ -114,7 +114,7 @@ def classSizes(data):
 	pass
 
 
->>>>>>> 0fe91fb2932188c92939fafa45abb5f06d645ce5
+
 
 # Find the most common day of the year to be born
 def findDay(a):
