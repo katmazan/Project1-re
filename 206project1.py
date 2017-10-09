@@ -1,4 +1,4 @@
-##im adding things
+
 ##Katarina Mazanka, katmazan, https://github.com/katmazan/206-1.git 
 import os
 import filecmp
